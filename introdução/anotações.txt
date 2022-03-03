@@ -1,1 +1,7 @@
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+
+git status 
+git add . 
+git commit -m "comentario"
+git push origin main 
