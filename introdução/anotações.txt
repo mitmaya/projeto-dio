@@ -1,7 +1,9 @@
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
-
+git clone https://github.com/mitmaya/projeto-dio.git
 git status 
 git add . 
 git commit -m "comentario"
-git push origin main 
+git push origin main (enviar local para o remoto)
+
+git pull (atualizar local com o remoto)
